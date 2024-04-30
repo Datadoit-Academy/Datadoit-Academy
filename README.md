@@ -10,8 +10,7 @@ DataDoIt Academy is your gateway to an extensive collection of open-source proje
 
 ### Explore Our Technologies
 
-![Technologies](URL_OF_THE_PICTURE)  <!-- Replace URL_OF_THE_PICTURE with the actual URL of the image listing technologies -->
-
+![Technologies](https://data-doit.com/wp-content/uploads/2022/12/Data-Science-ML-DL-e1672355604407-1024x690.png)
 Our projects leverage advanced technologies including **Machine Learning**, **Artificial Intelligence**, **Data Science**, **IoT (Internet of Things)**, and **Industry 4.0 solutions**. These technologies are integral to our development resources, providing robust solutions for digital transformation.
 
 ### Open Source and Beyond
