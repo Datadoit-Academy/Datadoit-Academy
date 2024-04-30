@@ -8,9 +8,11 @@ At DataDoIt, open source is more than a philosophy; it's the foundation of our m
 
 DataDoIt Academy is your gateway to an extensive collection of open-source projects encompassing software, codes, documentation, and much more. Originating from the innovative ecosystem of DataDoIt, these resources are crafted to streamline and enhance your digital projects.
 
-### Explore Our Resources
+### Explore Our Technologies
 
-We provide a comprehensive suite of tools, including software, documentation, and development resources. These are designed to support your digital innovation needs and are readily accessible through our platforms.
+![Technologies](URL_OF_THE_PICTURE)  <!-- Replace URL_OF_THE_PICTURE with the actual URL of the image listing technologies -->
+
+Our projects leverage advanced technologies including **Machine Learning**, **Artificial Intelligence**, **Data Science**, **IoT (Internet of Things)**, and **Industry 4.0 solutions**. These technologies are integral to our development resources, providing robust solutions for digital transformation.
 
 ### Open Source and Beyond
 
@@ -44,4 +46,3 @@ For any queries or for further assistance, feel free to reach out to us at:
 - **LinkedIn**: [@DataDoIt](https://www.linkedin.com/company/datadoit-academy)
 
 We look forward to building a smarter digital world together!
-
