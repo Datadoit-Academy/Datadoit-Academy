@@ -44,7 +44,7 @@ If you are interested in contributing, please read through our `CONTRIBUTING.md`
 ### Contact Us
 
 For any queries or for further assistance, feel free to reach out to us at:
-- **Email**: [contact@datadoit.io](mailto:contact@datadoit.io)
-- **LinkedIn**: [@DataDoIt](https://www.linkedin.com/company/datadoit-academy)
+- **Email**: [academy@datadoit.io](mailto:academy@datadoit.io)
+- **LinkedIn**: [@DataDoIt Academy](https://www.linkedin.com/company/datadoit-academy)
 
 We look forward to building a smarter digital world together!
