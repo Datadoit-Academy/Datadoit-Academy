@@ -1,5 +1,6 @@
-<img src="https://media.licdn.com/dms/image/D4D0BAQGmAsYAJ-k0Vg/company-logo_200_200/0/1714331528044/lakadimia_logo?e=1722470400&v=beta&t=O_oHiLmc45Q8UeY53ga7j9q9VuBFOsolTf0BgH_zFsc" />
-
+<div align="center">
+    <img src="https://media.licdn.com/dms/image/D4D0BAQGmAsYAJ-k0Vg/company-logo_200_200/0/1714331528044/lakadimia_logo?e=1722470400&v=beta&t=O_oHiLmc45Q8UeY53ga7j9q9VuBFOsolTf0BgH_zFsc" />
+</div>  <!-- Image centered with div align -->
 # 🚀 Welcome to DataDoIt Academy – A Beacon for Open Source Innovation 🚀
 
 At DataDoIt, open source is more than a philosophy; it's the foundation of our mission to empower digital innovation worldwide. We are thrilled to unveil the DataDoIt Academy, an expansive open-source knowledge center designed to amplify the impact of our groundbreaking projects.
